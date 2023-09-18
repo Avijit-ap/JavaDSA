@@ -1,3 +1,4 @@
+package Stack;
 
 import java.util.*;
 /*Create a stack and push each character of the string onto the stack.
